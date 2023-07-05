@@ -2,7 +2,7 @@
   "name": "fundamentals",
   "version": "0.1.0",
   "repository": {
-    "url": "git+https://github.com/{nancyliqn91/Redux-Help-Queue}.git"
+    "url": "git+https://github.com/nancyliqn91/Redux-Help-Queue.git"
   },
   "private": true,
   "dependencies": {
