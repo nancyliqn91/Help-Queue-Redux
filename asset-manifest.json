@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Help-Queue-Redux/static/css/main.e6c13ad2.css",
+    "main.js": "/Help-Queue-Redux/static/js/main.4870c6f4.js",
+    "static/js/787.c35586d2.chunk.js": "/Help-Queue-Redux/static/js/787.c35586d2.chunk.js",
+    "index.html": "/Help-Queue-Redux/index.html",
+    "main.e6c13ad2.css.map": "/Help-Queue-Redux/static/css/main.e6c13ad2.css.map",
+    "main.4870c6f4.js.map": "/Help-Queue-Redux/static/js/main.4870c6f4.js.map",
+    "787.c35586d2.chunk.js.map": "/Help-Queue-Redux/static/js/787.c35586d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4870c6f4.js"
+  ]
+}
