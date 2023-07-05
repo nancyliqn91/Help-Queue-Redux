@@ -2,7 +2,7 @@
 
 #### By Qian Li 😊
 
-#### 🌸 An full CRUD application in React with Redux that tracks help queue with time stamp for wait time. 🌸
+#### 🌸 An full CRUD application in React with Redux that tracks help queue with time stamp for wait time and hosted on github page. 🌸
 
 ## 🌼 Technologies Used
 
